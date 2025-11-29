@@ -2,7 +2,9 @@
 This a Layout for My First Front-end Project using HTML and CSS 
 ## HTML Files
 1- Home Pages
+        
         Log In
+       
         Sign Up
 ### Books
 ### Novels
