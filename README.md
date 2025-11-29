@@ -1,9 +1,9 @@
 # Cool-Library
 This a Layout for My First Front-end Project using HTML and CSS 
 ## HTML Files
-### Home Pages
-#### Log In
-#### Sign Up
+1- Home Pages
+        Log In
+        Sign Up
 ### Books
 ### Novels
 ### Stories
